@@ -1,0 +1,11 @@
+Course Name: Computer Science 121
+Instructor: Prof. Ladelle
+Schedule: Monday and Tuesday,11:00 AM - 12:15 AM
+
+Course Name: French 301
+Instructor: Prof. Stegman
+Schedule: Wednesday and Thursday, 1:00 PM - 2:30 PM
+
+Course Name: History 150
+Instructor: Prof.  Oyekunle
+Schedule: Tuesday and Thursday, 3:00 PM - 4:30 PM
