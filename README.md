@@ -8,4 +8,5 @@
 | Number |Weeks Link |Description|
 |:---:| ---| ---|
 | 1| [Week Two ](https://github.com/OyekunleNestor/CS121Project/tree/Oye/src/weekTwo) |Using math operations, string manipulation and concatenation|
+|2 | [Week Three ].(https://github.com/OyekunleNestor/CS121Project/tree/Oye/src/weekThree). | 
 
