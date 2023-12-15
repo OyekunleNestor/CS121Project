@@ -5,7 +5,7 @@
 
 
 
-| Number | Item|Description|
+| Number |Weeks Link |Description|
 |:---:| ---| ---|
-| R1| [Github Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary) |Github Terminology|
+| 1| [Week Two ](https://github.com/OyekunleNestor/CS121Project/tree/Oye/src/weekTwo) |Using math operations, string manipulation and concatenation|
 
